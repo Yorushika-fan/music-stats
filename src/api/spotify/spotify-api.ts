@@ -30,7 +30,7 @@ const SCOPES = [
 ];
 
 // Spotify OAuth 重定向 URI
-const REDIRECT_URI = import.meta.env.VITE_REDIRECT_URI || `${window.location.origin}/callback`;
+const REDIRECT_URI = import.meta.env.VITE_REDIRECT_URI || `http://localhost:5173/callback`;
 
 // Spotify API 客户端 ID
 const CLIENT_ID = import.meta.env.VITE_SPOTIFY_CLIENT_ID;
@@ -384,13 +384,7 @@ class SpotifyService {
     return !!accessToken && !!refreshToken && !!expiration;
   }
 
-  /**
-   * 用户登录
-   * @returns 登录结果
-   */
-  async login(): Promise<void> {
-    window.location.href = this.getAuthUrl();
-  }
+  
 
   /**
    * 处理回调，从 URL 解析授权码并获取令牌

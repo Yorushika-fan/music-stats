@@ -26,7 +26,7 @@ function Stats() {
   useEffect(() => {
     const loggedIn = spotifyService.isLoggedIn();
     if (!loggedIn) {
-      navigate("/login");
+      navigate("/auth/login");
     }
   }, [navigate]);
 

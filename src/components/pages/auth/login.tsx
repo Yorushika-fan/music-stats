@@ -1,28 +1,20 @@
 import { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-
-import { spotifyService } from "../../api";
-import useI18n from "../../hooks/use-i18n";
+import useI18n from "../../../hooks/use-i18n";
+import { spotifyService } from "../../../api";
 
 function Login() {
   const { t } = useI18n();
   const navigate = useNavigate();
 
   useEffect(() => {
-    // If already logged in, redirect to stats page
     if (spotifyService.isLoggedIn()) {
       navigate("/stats");
     }
   }, [navigate]);
 
-  const handleLogin = async () => {
-    // 登录并储存token
+  const handleLogin = () => {
     window.location.href = spotifyService.getAuthUrl();
-    // 获取授权码
-    const code = new URLSearchParams(window.location.search).get("code");
-    if (code) {
-      await spotifyService.getTokensFromCode(code);
-    }
   };
 
   return (

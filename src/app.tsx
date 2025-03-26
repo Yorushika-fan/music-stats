@@ -8,8 +8,8 @@ import { ThemeProvider } from "./providers/theme-provider";
 
 // Lazy load page components
 const Home = lazy(() => import("./components/pages/home"));
-const Login = lazy(() => import("./components/pages/login"));
-const Callback = lazy(() => import("./components/pages/callback"));
+const Login = lazy(() => import("./components/pages/auth/login"));
+const Callback = lazy(() => import("./components/pages/auth/callback"));
 const Stats = lazy(() => import("./components/pages/stats"));
 const Playlists = lazy(() => import("./components/pages/playlists"));
 const Downloads = lazy(() => import("./components/pages/downloads"));
@@ -24,8 +24,8 @@ function App() {
               <Suspense fallback={<Loading />}>
                 <Routes>
                   <Route path="/" element={<Home />} />
-                  <Route path="/login" element={<Login />} />
-                  <Route path="/callback" element={<Callback />} />
+                  <Route path="/auth/login" element={<Login />} />
+                  <Route path="/auth/callback" element={<Callback />} />
                   <Route path="/stats" element={<Stats />} />
                   <Route path="/playlists" element={<Playlists />} />
                   <Route path="/downloads" element={<Downloads />} />

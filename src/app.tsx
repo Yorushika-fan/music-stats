@@ -4,7 +4,6 @@ import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import Loading from "./components/common/loading";
 import Layout from "./components/layout/layout";
 import { I18nProvider } from "./providers/i18n-provider";
-import { ThemeProvider } from "./providers/theme-provider";
 
 // Lazy load page components
 const Home = lazy(() => import("./components/pages/home"));
@@ -18,10 +17,9 @@ function App() {
   return (
     <div className="w-full h-full">
       <I18nProvider>
-        <ThemeProvider>
-          <BrowserRouter>
-            <Layout>
-              <Suspense fallback={<Loading />}>
+        <BrowserRouter>
+          <Layout>
+            <Suspense fallback={<Loading />}>
                 <Routes>
                   <Route path="/" element={<Home />} />
                   <Route path="/auth/login" element={<Login />} />
@@ -34,7 +32,6 @@ function App() {
               </Suspense>
             </Layout>
           </BrowserRouter>
-        </ThemeProvider>
       </I18nProvider>
     </div>
   );

@@ -32,7 +32,8 @@
       "stats": "Dinleme alışkanlıklarınız hakkında detaylı istatistikleri görüntüleyin",
       "top": "En çok dinlediğiniz sanatçıları ve şarkıları görün",
       "playlists": "Zevkinize göre çalma listeleri oluşturun",
-      "downloads": "Yakında: Favori şarkılarınızı indirin"
+      "downloads": "Yakında: Favori şarkılarınızı indirin",
+      "heading": "Müziği Keşfet"
     }
   },
   "stats": {

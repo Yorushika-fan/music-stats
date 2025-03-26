@@ -48,7 +48,7 @@ function Home() {
         </p>
         <div className="mb-16">
           <Link
-            to="/login"
+            to="/auth/login"
             className="inline-flex items-center justify-center px-8 py-3 text-base font-medium text-white bg-indigo-600 border border-transparent rounded-md shadow hover:bg-indigo-700 md:py-4 md:px-10 md:text-lg"
           >
             {t("home.cta")}

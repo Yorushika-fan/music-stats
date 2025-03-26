@@ -1,6 +1,13 @@
 @import "tailwindcss";
 /* @tailwind utilities; */
 
+/* 配置darkMode为data-theme */
+@config {
+  darkMode: "data-theme";
+}
+
+/* 不再需要手动覆盖dark变体,因为已经通过@config配置了 */
+
 :root {
   font-family:
     system-ui,

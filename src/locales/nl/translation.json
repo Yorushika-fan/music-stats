@@ -33,7 +33,11 @@
       "top": "Zie je favoriete artiesten en nummers",
       "playlists": "Genereer afspeellijsten op basis van je smaak",
       "downloads": "Binnenkort: Download je favoriete nummers",
-      "heading": "Muziek verkennen"
+      "heading": "Muziek verkennen",
+      "stats_desc": "Bekijk gedetailleerde statistieken over je luistergewoonten",
+      "top_desc": "Ontdek je favoriete artiesten en nummers",
+      "playlists_desc": "Genereer afspeellijsten op basis van je smaak",
+      "downloads_desc": "Binnenkort: Download je favoriete nummers"
     }
   },
   "stats": {

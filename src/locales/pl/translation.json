@@ -33,7 +33,11 @@
       "top": "Zobacz swoich najczęściej słuchanych artystów i utwory",
       "playlists": "Generuj playlisty na podstawie swoich upodobań",
       "downloads": "Wkrótce: Pobierz swoje ulubione utwory",
-      "heading": "Odkrywaj Muzykę"
+      "heading": "Odkrywaj Muzykę",
+      "stats_desc": "Zobacz szczegółowe statystyki swoich nawyków słuchania",
+      "top_desc": "Poznaj swoich ulubionych artystów i utwory",
+      "playlists_desc": "Generuj playlisty na podstawie swoich upodobań",
+      "downloads_desc": "Wkrótce: Pobieraj ulubione utwory"
     }
   },
   "stats": {

@@ -33,7 +33,10 @@
       "top": "Sieh dir deine Top-Künstler und -Tracks an",
       "playlists": "Generiere Playlists basierend auf deinem Geschmack",
       "downloads": "Demnächst: Lade deine Lieblingssongs herunter",
-      "heading": "Musik erkunden"
+      "heading": "Musik erkunden",
+      "stats_desc": "Detaillierte Statistiken über deine Hörgewohnheiten anzeigen",
+      "top_desc": "Entdecke deine Top-Künstler und Tracks",
+      "playlists_desc": "Generiere Playlists basierend auf deinem Geschmack"
     }
   },
   "stats": {

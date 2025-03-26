@@ -33,7 +33,11 @@
       "top": "Xem nghệ sĩ và bài hát hàng đầu của bạn",
       "playlists": "Tạo danh sách phát dựa trên gu âm nhạc của bạn",
       "downloads": "Sắp ra mắt: Tải xuống bài hát yêu thích của bạn",
-      "heading": "Khám phá âm nhạc"
+      "heading": "Khám phá âm nhạc",
+      "stats_desc": "Xem thống kê chi tiết về thói quen nghe nhạc của bạn",
+      "top_desc": "Khám phá nghệ sĩ và bài hát yêu thích của bạn",
+      "playlists_desc": "Tạo danh sách phát dựa trên sở thích của bạn",
+      "downloads_desc": "Sắp ra mắt: Tải về các bài hát yêu thích"
     }
   },
   "stats": {

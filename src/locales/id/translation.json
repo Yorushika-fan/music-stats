@@ -33,7 +33,11 @@
       "top": "Lihat artis dan lagu teratas Anda",
       "playlists": "Buat daftar putar berdasarkan selera Anda",
       "downloads": "Segera hadir: Unduh lagu favorit Anda",
-      "heading": "Jelajahi Musik"
+      "heading": "Jelajahi Musik",
+      "stats_desc": "Lihat statistik detail tentang kebiasaan mendengarkan Anda",
+      "top_desc": "Temukan artis dan lagu favorit Anda",
+      "playlists_desc": "Buat playlist berdasarkan selera Anda",
+      "downloads_desc": "Segera hadir: Unduh lagu favorit Anda"
     }
   },
   "stats": {

@@ -30,7 +30,11 @@
       "top": "인기 아티스트와 트랙 확인",
       "playlists": "취향에 맞는 재생목록 생성",
       "downloads": "출시 예정: 좋아하는 노래 다운로드",
-      "heading": "음악 탐색"
+      "heading": "음악 탐색",
+      "stats_desc": "청취 습관에 대한 자세한 통계 보기",
+      "top_desc": "좋아하는 아티스트와 곡 확인하기",
+      "playlists_desc": "취향에 맞는 플레이리스트 생성",
+      "downloads_desc": "출시 예정: 좋아하는 곡 다운로드"
     }
   },
   "stats": {

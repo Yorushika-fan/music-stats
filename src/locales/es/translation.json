@@ -33,7 +33,11 @@
       "top": "Ver tus artistas y canciones principales",
       "playlists": "Generar listas de reproducción basadas en tus gustos",
       "downloads": "Próximamente: Descarga tus canciones favoritas",
-      "heading": "Explorar Música"
+      "heading": "Explorar Música",
+      "stats_desc": "Ver estadísticas detalladas sobre tus hábitos de escucha",
+      "top_desc": "Descubre tus artistas y canciones favoritas",
+      "playlists_desc": "Genera listas de reproducción según tus gustos",
+      "downloads_desc": "Próximamente: Descarga tus canciones favoritas"
     }
   },
   "stats": {

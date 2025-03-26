@@ -33,7 +33,11 @@
       "top": "See your top artists and tracks",
       "playlists": "Generate playlists based on your taste",
       "downloads": "Coming soon: Download your favorite songs",
-      "heading": "Explore Music"
+      "heading": "Explore Music",
+      "stats_desc": "View detailed statistics about your listening habits",
+      "top_desc": "See your top artists and tracks",
+      "playlists_desc": "Generate playlists based on your taste",
+      "downloads_desc": "Coming soon: Download your favorite songs"
     }
   },
   "stats": {

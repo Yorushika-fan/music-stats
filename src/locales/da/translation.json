@@ -33,7 +33,11 @@
       "top": "Se dine topkunstnere og numre",
       "playlists": "Generer playlister baseret på din smag",
       "downloads": "Kommer snart: Download dine yndlingssange",
-      "heading": "Udforsk musik"
+      "heading": "Udforsk musik",
+      "stats_desc": "Se detaljeret statistik over dine lyttevaner",
+      "top_desc": "Opdag dine yndlingskunstnere og sange",
+      "playlists_desc": "Generer playlister baseret på din smag",
+      "downloads_desc": "Kommer snart: Download dine yndlingssange"
     }
   },
   "stats": {

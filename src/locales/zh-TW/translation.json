@@ -30,7 +30,11 @@
       "top": "查看您最喜愛的藝術家和曲目",
       "playlists": "根據您的品味生成播放清單",
       "downloads": "即將推出：下載您喜愛的歌曲",
-      "heading": "探索音樂"
+      "heading": "探索音樂",
+      "stats_desc": "查看聽歌習慣的詳細統計",
+      "top_desc": "查看你的最愛藝人和歌曲",
+      "playlists_desc": "根據你的品味生成歌單",
+      "downloads_desc": "即將推出：下載你喜歡的歌曲"
     }
   },
   "stats": {

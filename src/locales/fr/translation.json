@@ -30,7 +30,11 @@
       "top": "Découvrez vos artistes et titres préférés",
       "playlists": "Générez des playlists basées sur vos goûts",
       "downloads": "Bientôt disponible : Téléchargez vos chansons préférées",
-      "heading": "Explorer la Musique"
+      "heading": "Explorer la Musique",
+      "stats_desc": "Consultez des statistiques détaillées sur vos habitudes d'écoute",
+      "top_desc": "Découvrez vos artistes et titres préférés",
+      "playlists_desc": "Générez des playlists basées sur vos goûts",
+      "downloads_desc": "Bientôt disponible : Téléchargez vos chansons préférées"
     }
   },
   "stats": {

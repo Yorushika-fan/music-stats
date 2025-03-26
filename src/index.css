@@ -1,10 +1,6 @@
 @import "tailwindcss";
-/* @tailwind utilities; */
+@variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
-/* 配置darkMode为data-theme */
-@config {
-  darkMode: "data-theme";
-}
 
 /* 不再需要手动覆盖dark变体,因为已经通过@config配置了 */
 

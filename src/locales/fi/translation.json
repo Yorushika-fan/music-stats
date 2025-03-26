@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Ladataan...",
+    "error": "Tapahtui virhe",
+    "login": "Kirjaudu sisään",
+    "logout": "Kirjaudu ulos",
+    "rights": "Kaikki oikeudet pidätetään.",
+    "viewAll": "Näytä kaikki"
+  },
+  "nav": {
+    "home": "Etusivu",
+    "stats": "Tilastot",
+    "playlists": "Soittolistan luonti",
+    "downloads": "Kappaleiden lataukset"
+  },
+  "login": {
+    "description": "Kirjaudu Spotify-tilillesi nähdäksesi kuuntelutilastosi",
+    "withSpotify": "Kirjaudu sisään Spotifyn kautta",
+    "privacy": "Yksityisyytesi on tärkeä",
+    "termsNotice": "Kirjautumalla hyväksyt Spotify-kuuntelutietojesi jakamisen kanssamme. Emme tallenna henkilökohtaisia tietojasi."
+  },
+  "callback": {
+    "redirecting": "Ohjataan sinut takaisin kirjautumissivulle..."
+  },
+  "home": {
+    "title": "Musiikkitilastot",
+    "subtitle": "Tutustu musiikinkuuntelutottumuksiisi yksityiskohtaisten tilastojen avulla",
+    "description": "Music Stats auttaa sinua visualisoimaan Spotify-kuuntelutietojasi kauniiden kaavioiden ja oivallusten avulla. Seuraa suosikkiartistejasi, kappaleitasi ja musiikkityylejäsi ajan mittaan.",
+    "cta": "Kirjaudu sisään Spotifyn kautta aloittaaksesi",
+    "features": {
+      "title": "Löydä musiikkimakusi",
+      "stats": "Katso yksityiskohtaisia tilastoja kuuntelutottumuksistasi",
+      "top": "Näe suosituimmat artistisi ja kappaleesi",
+      "playlists": "Luo soittolistoja makusi perusteella",
+      "downloads": "Tulossa pian: Lataa suosikkikappaleesi"
+    }
+  },
+  "stats": {
+    "title": "Kuuntelutilastosi",
+    "overview": "Yleiskatsaus",
+    "topTracks": "Eniten kuunnellut kappaleet",
+    "topArtists": "Eniten kuunnellut artistit",
+    "listeningTime": "Kuunteluaika",
+    "totalTracks": "Kappaleiden kokonaismäärä",
+    "totalArtists": "Artistien kokonaismäärä",
+    "timeRange": {
+      "short": "Viimeiset 4 viikkoa",
+      "medium": "Viimeiset 6 kuukautta",
+      "long": "Koko aika"
+    },
+    "genreDistribution": "Musiikkityylien jakauma",
+    "listeningActivity": "Kuunteluaktiivisuus",
+    "popularContent": "Suosittu Sisältö"
+  },
+  "playlist": {
+    "title": "Soittolistan luonti",
+    "description": "Luo mukautettu soittolista mieltymystesi perusteella",
+    "songName": "Syötä kappaleen nimi",
+    "generate": "Luo suosituksia",
+    "addToPlaylist": "Lisää Spotify-soittolistaan",
+    "creating": "Luodaan soittolistaa...",
+    "success": "Soittolista luotu onnistuneesti!"
+  },
+  "downloads": {
+    "title": "Kappaleiden lataukset",
+    "comingSoon": "Tulossa pian",
+    "description": "Tämä ominaisuus on parhaillaan kehitteillä. Tarkista myöhemmin uudelleen!"
+  }
+}

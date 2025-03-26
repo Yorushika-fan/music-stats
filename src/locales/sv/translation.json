@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Laddar...",
+    "error": "Ett fel uppstod",
+    "login": "Logga in",
+    "logout": "Logga ut",
+    "rights": "Alla rättigheter förbehållna.",
+    "viewAll": "Visa alla"
+  },
+  "nav": {
+    "home": "Hem",
+    "stats": "Statistik",
+    "playlists": "Spelliste-generator",
+    "downloads": "Låtnedladdningar"
+  },
+  "login": {
+    "description": "Logga in på ditt Spotify-konto för att se din lyssningsstatistik",
+    "withSpotify": "Logga in med Spotify",
+    "privacy": "Din integritet är viktig",
+    "termsNotice": "Genom att logga in godkänner du att dela din Spotify-lyssningsdata med oss. Vi lagrar inga av dina personuppgifter."
+  },
+  "callback": {
+    "redirecting": "Omdirigerar dig tillbaka till inloggningssidan..."
+  },
+  "home": {
+    "title": "Musik Statistik",
+    "subtitle": "Upptäck dina musiklyssningsvanor genom detaljerad statistik",
+    "description": "Music Stats hjälper dig visualisera din Spotify-lyssningsdata med vackra diagram och insikter. Spåra dina favoritartister, låtar och genrer över tid.",
+    "cta": "Logga in med Spotify för att börja",
+    "features": {
+      "title": "Upptäck din musiksmak",
+      "stats": "Se detaljerad statistik om dina lyssningsvanor",
+      "top": "Se dina topplistade artister och låtar",
+      "playlists": "Generera spellistor baserade på din smak",
+      "downloads": "Kommer snart: Ladda ner dina favoritlåtar"
+    }
+  },
+  "stats": {
+    "title": "Din lyssningsstatistik",
+    "overview": "Översikt",
+    "topTracks": "Mest spelade låtar",
+    "topArtists": "Mest spelade artister",
+    "listeningTime": "Lyssningstid",
+    "totalTracks": "Totalt antal låtar",
+    "totalArtists": "Totalt antal artister",
+    "timeRange": {
+      "short": "Senaste 4 veckorna",
+      "medium": "Senaste 6 månaderna",
+      "long": "All tid"
+    },
+    "genreDistribution": "Genrefördelning",
+    "listeningActivity": "Lyssningsaktivitet",
+    "popularContent": "Populärt Innehåll"
+  },
+  "playlist": {
+    "title": "Spelliste-generator",
+    "description": "Skapa en anpassad spellista baserad på dina preferenser",
+    "songName": "Ange ett låtnamn",
+    "generate": "Generera rekommendationer",
+    "addToPlaylist": "Lägg till i Spotify-spellista",
+    "creating": "Skapar spellista...",
+    "success": "Spellistan skapades framgångsrikt!"
+  },
+  "downloads": {
+    "title": "Låtnedladdningar",
+    "comingSoon": "Kommer snart",
+    "description": "Denna funktion är för närvarande under utveckling. Återkom senare!"
+  }
+}

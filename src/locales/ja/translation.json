@@ -1,0 +1,66 @@
+{
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "rights": "無断複写・転載を禁じます。",
+    "viewAll": "すべて表示"
+  },
+  "nav": {
+    "home": "ホーム",
+    "stats": "統計",
+    "playlists": "プレイリスト作成",
+    "downloads": "楽曲ダウンロード"
+  },
+  "login": {
+    "description": "Spotifyアカウントにログインして、あなたの聴取統計を見る",
+    "withSpotify": "Spotifyでログイン",
+    "privacy": "あなたのプライバシーは重要です",
+    "termsNotice": "ログインすることで、あなたのSpotify聴取データを当サービスと共有することに同意します。個人データは保存されません。"
+  },
+  "home": {
+    "title": "Music Stats",
+    "subtitle": "詳細な統計であなたの音楽リスニング習慣を発見しましょう",
+    "description": "Music Statsは、美しいチャートと分析でSpotifyのリスニングデータを視覚化するお手伝いをします。お気に入りのアーティスト、曲、ジャンルの傾向を時間とともに追跡しましょう。",
+    "cta": "Spotifyでログインして始める",
+    "features": {
+      "title": "あなたの音楽の好みを探る",
+      "stats": "リスニング習慣に関する詳細な統計を表示",
+      "top": "トップアーティストとトラックを確認",
+      "playlists": "あなたの好みに基づいたプレイリストを生成",
+      "downloads": "近日公開：お気に入りの曲をダウンロード"
+    }
+  },
+  "stats": {
+    "title": "あなたのリスニング統計",
+    "overview": "概要",
+    "topTracks": "トップトラック",
+    "topArtists": "トップアーティスト",
+    "listeningTime": "リスニング時間",
+    "totalTracks": "総トラック数",
+    "totalArtists": "総アーティスト数",
+    "timeRange": {
+      "short": "過去4週間",
+      "medium": "過去6ヶ月",
+      "long": "全期間"
+    },
+    "genreDistribution": "ジャンル分布",
+    "listeningActivity": "リスニング活動",
+    "popularContent": "人気のコンテンツ"
+  },
+  "playlist": {
+    "title": "プレイリスト作成",
+    "description": "あなたの好みに基づいてカスタムプレイリストを生成",
+    "songName": "曲名を入力",
+    "generate": "おすすめを生成",
+    "addToPlaylist": "Spotifyプレイリストに追加",
+    "creating": "プレイリスト作成中...",
+    "success": "プレイリストが正常に作成されました！"
+  },
+  "downloads": {
+    "title": "楽曲ダウンロード",
+    "comingSoon": "近日公開",
+    "description": "この機能は現在開発中です。また後でチェックしてください！"
+  }
+}

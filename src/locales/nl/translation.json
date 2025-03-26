@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Laden...",
+    "error": "Er is een fout opgetreden",
+    "login": "Inloggen",
+    "logout": "Uitloggen",
+    "rights": "Alle rechten voorbehouden.",
+    "viewAll": "Alles bekijken"
+  },
+  "nav": {
+    "home": "Home",
+    "stats": "Statistieken",
+    "playlists": "Playlist Generator",
+    "downloads": "Muziek Downloads"
+  },
+  "login": {
+    "description": "Log in op je Spotify-account om je luisterstatistieken te bekijken",
+    "withSpotify": "Inloggen met Spotify",
+    "privacy": "Je privacy is belangrijk",
+    "termsNotice": "Door in te loggen, ga je ermee akkoord om je Spotify-luistergegevens met ons te delen. We slaan geen van je persoonlijke gegevens op."
+  },
+  "callback": {
+    "redirecting": "Je wordt teruggestuurd naar de inlogpagina..."
+  },
+  "home": {
+    "title": "Muziek Statistieken",
+    "subtitle": "Ontdek je muziekluistergewoonten via gedetailleerde statistieken",
+    "description": "Music Stats helpt je bij het visualiseren van je Spotify-luistergegevens met mooie grafieken en inzichten. Volg je favoriete artiesten, nummers en genres in de loop van de tijd.",
+    "cta": "Log in met Spotify om te beginnen",
+    "features": {
+      "title": "Ontdek je muzieksmaak",
+      "stats": "Bekijk gedetailleerde statistieken over je luistergewoonten",
+      "top": "Zie je favoriete artiesten en nummers",
+      "playlists": "Genereer afspeellijsten op basis van je smaak",
+      "downloads": "Binnenkort: Download je favoriete nummers"
+    }
+  },
+  "stats": {
+    "title": "Jouw Luisterstatistieken",
+    "overview": "Overzicht",
+    "topTracks": "Meest beluisterde nummers",
+    "topArtists": "Meest beluisterde artiesten",
+    "listeningTime": "Luistertijd",
+    "totalTracks": "Totaal aantal nummers",
+    "totalArtists": "Totaal aantal artiesten",
+    "timeRange": {
+      "short": "Laatste 4 Weken",
+      "medium": "Laatste 6 Maanden",
+      "long": "Alle Tijd"
+    },
+    "genreDistribution": "Genreverdeling",
+    "listeningActivity": "Luisteractiviteit",
+    "popularContent": "Populaire Inhoud"
+  },
+  "playlist": {
+    "title": "Playlist Generator",
+    "description": "Genereer een aangepaste afspeellijst op basis van je voorkeuren",
+    "songName": "Voer een naam van een nummer in",
+    "generate": "Genereer Aanbevelingen",
+    "addToPlaylist": "Toevoegen aan Spotify-afspeellijst",
+    "creating": "Afspeellijst maken...",
+    "success": "Afspeellijst succesvol aangemaakt!"
+  },
+  "downloads": {
+    "title": "Muziek Downloads",
+    "comingSoon": "Binnenkort Beschikbaar",
+    "description": "Deze functie is momenteel in ontwikkeling. Kom later terug!"
+  }
+}

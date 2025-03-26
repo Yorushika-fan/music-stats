@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "login": "Giriş Yap",
+    "logout": "Çıkış Yap",
+    "rights": "Tüm hakları saklıdır.",
+    "viewAll": "Tümünü görüntüle"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "stats": "İstatistikler",
+    "playlists": "Çalma Listesi Oluşturucu",
+    "downloads": "Şarkı İndirmeleri"
+  },
+  "login": {
+    "description": "Dinleme istatistiklerinizi görmek için Spotify hesabınıza giriş yapın",
+    "withSpotify": "Spotify ile Giriş Yap",
+    "privacy": "Gizliliğiniz önemlidir",
+    "termsNotice": "Giriş yaparak, Spotify dinleme verilerinizi bizimle paylaşmayı kabul etmiş olursunuz. Kişisel verilerinizi saklamıyoruz."
+  },
+  "callback": {
+    "redirecting": "Giriş sayfasına geri yönlendiriliyorsunuz..."
+  },
+  "home": {
+    "title": "Müzik İstatistikleri",
+    "subtitle": "Detaylı istatistiklerle müzik dinleme alışkanlıklarınızı keşfedin",
+    "description": "Music Stats, Spotify dinleme verilerinizi güzel grafikler ve içgörülerle görselleştirmenize yardımcı olur. Favori sanatçılarınızı, şarkılarınızı ve türlerinizi zaman içinde takip edin.",
+    "cta": "Başlamak için Spotify ile giriş yapın",
+    "features": {
+      "title": "Müzik zevkinizi keşfedin",
+      "stats": "Dinleme alışkanlıklarınız hakkında detaylı istatistikleri görüntüleyin",
+      "top": "En çok dinlediğiniz sanatçıları ve şarkıları görün",
+      "playlists": "Zevkinize göre çalma listeleri oluşturun",
+      "downloads": "Yakında: Favori şarkılarınızı indirin"
+    }
+  },
+  "stats": {
+    "title": "Dinleme İstatistikleriniz",
+    "overview": "Genel Bakış",
+    "topTracks": "En çok dinlenen şarkılar",
+    "topArtists": "En çok dinlenen sanatçılar",
+    "listeningTime": "Dinleme süresi",
+    "totalTracks": "Toplam şarkı sayısı",
+    "totalArtists": "Toplam sanatçı sayısı",
+    "timeRange": {
+      "short": "Son 4 Hafta",
+      "medium": "Son 6 Ay",
+      "long": "Tüm Zamanlar"
+    },
+    "genreDistribution": "Tür Dağılımı",
+    "listeningActivity": "Dinleme Aktivitesi",
+    "popularContent": "Popüler İçerik"
+  },
+  "playlist": {
+    "title": "Çalma Listesi Oluşturucu",
+    "description": "Tercihlerinize göre özel bir çalma listesi oluşturun",
+    "songName": "Bir şarkı adı girin",
+    "generate": "Öneriler Oluştur",
+    "addToPlaylist": "Spotify Çalma Listesine Ekle",
+    "creating": "Çalma listesi oluşturuluyor...",
+    "success": "Çalma listesi başarıyla oluşturuldu!"
+  },
+  "downloads": {
+    "title": "Şarkı İndirmeleri",
+    "comingSoon": "Çok Yakında",
+    "description": "Bu özellik şu anda geliştirme aşamasındadır. Daha sonra tekrar kontrol edin!"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "login": "Login",
+    "logout": "Logout",
+    "rights": "All rights reserved.",
+    "viewAll": "View All"
+  },
+  "nav": {
+    "home": "Home",
+    "stats": "Statistics",
+    "playlists": "Playlist Generator",
+    "downloads": "Song Downloads"
+  },
+  "login": {
+    "description": "Sign in to your Spotify account to see your listening statistics",
+    "withSpotify": "Login with Spotify",
+    "privacy": "Your privacy is important",
+    "termsNotice": "By logging in, you agree to share your Spotify listening data with us. We don't store any of your personal data."
+  },
+  "callback": {
+    "redirecting": "Redirecting you back to the login page..."
+  },
+  "home": {
+    "title": "Music Stats",
+    "subtitle": "Discover your music listening habits through detailed statistics",
+    "description": "Music Stats helps you visualize your Spotify listening data with beautiful charts and insights. Track your favorite artists, songs, and genres over time.",
+    "cta": "Login with Spotify to get started",
+    "features": {
+      "title": "Discover your music taste",
+      "stats": "View detailed statistics about your listening habits",
+      "top": "See your top artists and tracks",
+      "playlists": "Generate playlists based on your taste",
+      "downloads": "Coming soon: Download your favorite songs"
+    }
+  },
+  "stats": {
+    "title": "Your Listening Statistics",
+    "overview": "Overview",
+    "topTracks": "Top Tracks",
+    "topArtists": "Top Artists",
+    "listeningTime": "Listening Time",
+    "totalTracks": "Total Tracks",
+    "totalArtists": "Total Artists",
+    "timeRange": {
+      "short": "Last 4 Weeks",
+      "medium": "Last 6 Months",
+      "long": "All Time"
+    },
+    "genreDistribution": "Genre Distribution",
+    "listeningActivity": "Listening Activity",
+    "popularContent": "Popular Content"
+  },
+  "playlist": {
+    "title": "Playlist Generator",
+    "description": "Generate a custom playlist based on your preferences",
+    "songName": "Enter a song name",
+    "generate": "Generate Recommendations",
+    "addToPlaylist": "Add to Spotify Playlist",
+    "creating": "Creating playlist...",
+    "success": "Playlist created successfully!"
+  },
+  "downloads": {
+    "title": "Song Downloads",
+    "comingSoon": "Coming Soon",
+    "description": "This feature is currently under development. Check back later!"
+  }
+}

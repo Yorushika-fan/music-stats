@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Carregando...",
+    "error": "Ocorreu um erro",
+    "login": "Entrar",
+    "logout": "Sair",
+    "rights": "Todos os direitos reservados.",
+    "viewAll": "Ver tudo"
+  },
+  "nav": {
+    "home": "Início",
+    "stats": "Estatísticas",
+    "playlists": "Gerador de Playlists",
+    "downloads": "Downloads de Músicas"
+  },
+  "login": {
+    "description": "Entre na sua conta Spotify para ver suas estatísticas de escuta",
+    "withSpotify": "Entrar com Spotify",
+    "privacy": "Sua privacidade é importante",
+    "termsNotice": "Ao fazer login, você concorda em compartilhar seus dados de escuta do Spotify conosco. Não armazenamos nenhum dos seus dados pessoais."
+  },
+  "callback": {
+    "redirecting": "Redirecionando você de volta para a página de login..."
+  },
+  "home": {
+    "title": "Estatísticas Musicais",
+    "subtitle": "Descubra seus hábitos de escuta musical através de estatísticas detalhadas",
+    "description": "Music Stats ajuda você a visualizar seus dados de escuta do Spotify com gráficos e informações bonitas. Acompanhe seus artistas, músicas e gêneros favoritos ao longo do tempo.",
+    "cta": "Entre com o Spotify para começar",
+    "features": {
+      "title": "Descubra seu gosto musical",
+      "stats": "Veja estatísticas detalhadas sobre seus hábitos de escuta",
+      "top": "Veja seus artistas e faixas mais ouvidas",
+      "playlists": "Gere playlists baseadas no seu gosto",
+      "downloads": "Em breve: Baixe suas músicas favoritas"
+    }
+  },
+  "stats": {
+    "title": "Suas Estatísticas de Escuta",
+    "overview": "Visão Geral",
+    "topTracks": "Faixas mais ouvidas",
+    "topArtists": "Artistas mais ouvidos",
+    "listeningTime": "Tempo de audição",
+    "totalTracks": "Total de faixas",
+    "totalArtists": "Total de artistas",
+    "timeRange": {
+      "short": "Últimas 4 Semanas",
+      "medium": "Últimos 6 Meses",
+      "long": "Todo o Tempo"
+    },
+    "genreDistribution": "Distribuição de Gêneros",
+    "listeningActivity": "Atividade de Escuta",
+    "popularContent": "Conteúdo Popular"
+  },
+  "playlist": {
+    "title": "Gerador de Playlists",
+    "description": "Gere uma playlist personalizada baseada nas suas preferências",
+    "songName": "Digite o nome de uma música",
+    "generate": "Gerar Recomendações",
+    "addToPlaylist": "Adicionar à Playlist do Spotify",
+    "creating": "Criando playlist...",
+    "success": "Playlist criada com sucesso!"
+  },
+  "downloads": {
+    "title": "Downloads de Músicas",
+    "comingSoon": "Em Breve",
+    "description": "Este recurso está atualmente em desenvolvimento. Volte mais tarde!"
+  }
+}

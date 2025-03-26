@@ -1,0 +1,66 @@
+{
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다",
+    "login": "로그인",
+    "logout": "로그아웃",
+    "rights": "모든 권리 보유.",
+    "viewAll": "모두 보기"
+  },
+  "nav": {
+    "home": "홈",
+    "stats": "통계",
+    "playlists": "재생목록 생성기",
+    "downloads": "노래 다운로드"
+  },
+  "login": {
+    "description": "Spotify 계정에 로그인하여 청취 통계 확인하기",
+    "withSpotify": "Spotify로 로그인",
+    "privacy": "귀하의 개인정보는 중요합니다",
+    "termsNotice": "로그인함으로써 귀하의 Spotify 청취 데이터를 저희와 공유하는 데 동의합니다. 저희는 귀하의 개인 데이터를 저장하지 않습니다."
+  },
+  "home": {
+    "title": "Music Stats",
+    "subtitle": "상세한 통계를 통해 음악 청취 습관을 발견하세요",
+    "description": "Music Stats는 아름다운 차트와 인사이트로 Spotify 청취 데이터를 시각화하는 데 도움을 줍니다. 시간이 지남에 따라 좋아하는 아티스트, 노래 및 장르를 추적하세요.",
+    "cta": "Spotify로 로그인하여 시작하기",
+    "features": {
+      "title": "음악 취향 탐색하기",
+      "stats": "청취 습관에 대한 상세한 통계 보기",
+      "top": "인기 아티스트와 트랙 확인",
+      "playlists": "취향에 맞는 재생목록 생성",
+      "downloads": "출시 예정: 좋아하는 노래 다운로드"
+    }
+  },
+  "stats": {
+    "title": "청취 통계",
+    "overview": "개요",
+    "topTracks": "인기 트랙",
+    "topArtists": "인기 아티스트",
+    "listeningTime": "청취 시간",
+    "totalTracks": "총 트랙 수",
+    "totalArtists": "총 아티스트 수",
+    "timeRange": {
+      "short": "최근 4주",
+      "medium": "최근 6개월",
+      "long": "전체 기간"
+    },
+    "genreDistribution": "장르 분포",
+    "listeningActivity": "청취 활동",
+    "popularContent": "인기 콘텐츠"
+  },
+  "playlist": {
+    "title": "재생목록 생성기",
+    "description": "취향에 맞는 맞춤 재생목록 생성",
+    "songName": "노래 이름 입력",
+    "generate": "추천 생성",
+    "addToPlaylist": "Spotify 재생목록에 추가",
+    "creating": "재생목록 생성 중...",
+    "success": "재생목록이 성공적으로 생성되었습니다!"
+  },
+  "downloads": {
+    "title": "노래 다운로드",
+    "comingSoon": "출시 예정",
+    "description": "이 기능은 현재 개발 중입니다. 나중에 다시 확인하세요!"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión",
+    "rights": "Todos los derechos reservados.",
+    "viewAll": "Ver todo"
+  },
+  "nav": {
+    "home": "Inicio",
+    "stats": "Estadísticas",
+    "playlists": "Generador de listas",
+    "downloads": "Descargas de canciones"
+  },
+  "login": {
+    "description": "Inicia sesión en tu cuenta de Spotify para ver tus estadísticas de escucha",
+    "withSpotify": "Iniciar sesión con Spotify",
+    "privacy": "Tu privacidad es importante",
+    "termsNotice": "Al iniciar sesión, aceptas compartir tus datos de escucha de Spotify con nosotros. No almacenamos ninguno de tus datos personales."
+  },
+  "callback": {
+    "redirecting": "Redireccionándote de vuelta a la página de inicio de sesión..."
+  },
+  "home": {
+    "title": "Estadísticas Musicales",
+    "subtitle": "Descubre tus hábitos de escucha musical a través de estadísticas detalladas",
+    "description": "Music Stats te ayuda a visualizar tus datos de escucha de Spotify con hermosos gráficos e información. Haz un seguimiento de tus artistas, canciones y géneros favoritos a lo largo del tiempo.",
+    "cta": "Inicia sesión con Spotify para comenzar",
+    "features": {
+      "title": "Descubre tus gustos musicales",
+      "stats": "Ver estadísticas detalladas sobre tus hábitos de escucha",
+      "top": "Ver tus artistas y canciones principales",
+      "playlists": "Generar listas de reproducción basadas en tus gustos",
+      "downloads": "Próximamente: Descarga tus canciones favoritas"
+    }
+  },
+  "stats": {
+    "title": "Tus estadísticas de escucha",
+    "overview": "Resumen",
+    "topTracks": "Canciones más escuchadas",
+    "topArtists": "Artistas más escuchados",
+    "listeningTime": "Tiempo de escucha",
+    "totalTracks": "Total de canciones",
+    "totalArtists": "Total de artistas",
+    "timeRange": {
+      "short": "Últimas 4 semanas",
+      "medium": "Últimos 6 meses",
+      "long": "Todo el tiempo"
+    },
+    "genreDistribution": "Distribución de géneros",
+    "listeningActivity": "Actividad de escucha",
+    "popularContent": "Contenido Popular"
+  },
+  "playlist": {
+    "title": "Generador de listas",
+    "description": "Genera una lista personalizada basada en tus preferencias",
+    "songName": "Ingresa un nombre de canción",
+    "generate": "Generar recomendaciones",
+    "addToPlaylist": "Añadir a lista de Spotify",
+    "creating": "Creando lista...",
+    "success": "¡Lista creada exitosamente!"
+  },
+  "downloads": {
+    "title": "Descargas de canciones",
+    "comingSoon": "Próximamente",
+    "description": "Esta función está actualmente en desarrollo. ¡Vuelve más tarde!"
+  }
+}

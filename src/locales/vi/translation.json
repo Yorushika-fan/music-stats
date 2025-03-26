@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Đã xảy ra lỗi",
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "rights": "Đã đăng ký Bản quyền.",
+    "viewAll": "Xem tất cả"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "stats": "Thống kê",
+    "playlists": "Tạo danh sách phát",
+    "downloads": "Tải nhạc"
+  },
+  "login": {
+    "description": "Đăng nhập vào tài khoản Spotify của bạn để xem thống kê nghe nhạc",
+    "withSpotify": "Đăng nhập bằng Spotify",
+    "privacy": "Quyền riêng tư của bạn rất quan trọng",
+    "termsNotice": "Bằng cách đăng nhập, bạn đồng ý chia sẻ dữ liệu nghe nhạc Spotify với chúng tôi. Chúng tôi không lưu trữ bất kỳ dữ liệu cá nhân nào của bạn."
+  },
+  "callback": {
+    "redirecting": "Đang chuyển hướng bạn trở lại trang đăng nhập..."
+  },
+  "home": {
+    "title": "Thống kê nhạc",
+    "subtitle": "Khám phá thói quen nghe nhạc của bạn thông qua thống kê chi tiết",
+    "description": "Music Stats giúp bạn trực quan hóa dữ liệu nghe nhạc Spotify với biểu đồ và thông tin chi tiết. Theo dõi nghệ sĩ, bài hát và thể loại yêu thích của bạn theo thời gian.",
+    "cta": "Đăng nhập bằng Spotify để bắt đầu",
+    "features": {
+      "title": "Khám phá gu âm nhạc của bạn",
+      "stats": "Xem thống kê chi tiết về thói quen nghe nhạc",
+      "top": "Xem nghệ sĩ và bài hát hàng đầu của bạn",
+      "playlists": "Tạo danh sách phát dựa trên gu âm nhạc của bạn",
+      "downloads": "Sắp ra mắt: Tải xuống bài hát yêu thích của bạn"
+    }
+  },
+  "stats": {
+    "title": "Thống kê nghe nhạc của bạn",
+    "overview": "Tổng quan",
+    "topTracks": "Bài hát được nghe nhiều nhất",
+    "topArtists": "Nghệ sĩ được nghe nhiều nhất",
+    "listeningTime": "Thời gian nghe",
+    "totalTracks": "Tổng số bài hát",
+    "totalArtists": "Tổng số nghệ sĩ",
+    "timeRange": {
+      "short": "4 tuần qua",
+      "medium": "6 tháng qua",
+      "long": "Tất cả thời gian"
+    },
+    "genreDistribution": "Phân bố thể loại",
+    "listeningActivity": "Hoạt động nghe nhạc",
+    "popularContent": "Nội Dung Phổ Biến"
+  },
+  "playlist": {
+    "title": "Tạo danh sách phát",
+    "description": "Tạo danh sách phát tùy chỉnh dựa trên sở thích của bạn",
+    "songName": "Nhập tên bài hát",
+    "generate": "Tạo đề xuất",
+    "addToPlaylist": "Thêm vào danh sách phát Spotify",
+    "creating": "Đang tạo danh sách phát...",
+    "success": "Đã tạo danh sách phát thành công!"
+  },
+  "downloads": {
+    "title": "Tải nhạc",
+    "comingSoon": "Sắp ra mắt",
+    "description": "Tính năng này hiện đang được phát triển. Hãy quay lại sau!"
+  }
+}

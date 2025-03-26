@@ -1,0 +1,66 @@
+{
+  "common": {
+    "loading": "載入中...",
+    "error": "發生錯誤",
+    "login": "登入",
+    "logout": "登出",
+    "rights": "版權所有。",
+    "viewAll": "查看全部"
+  },
+  "nav": {
+    "home": "首頁",
+    "stats": "統計",
+    "playlists": "播放清單產生器",
+    "downloads": "歌曲下載"
+  },
+  "login": {
+    "description": "登入您的Spotify帳戶，查看您的收聽統計數據",
+    "withSpotify": "使用Spotify登入",
+    "privacy": "您的隱私很重要",
+    "termsNotice": "登入即表示您同意與我們分享您的Spotify收聽數據。我們不會儲存您的任何個人數據。"
+  },
+  "home": {
+    "title": "Music Stats",
+    "subtitle": "透過詳細統計數據了解您的音樂收聽習慣",
+    "description": "Music Stats 透過精美圖表和見解幫助您視覺化您的 Spotify 收聽數據。追蹤您最喜愛的藝術家、歌曲和類型隨時間的變化。",
+    "cta": "使用 Spotify 登入以開始",
+    "features": {
+      "title": "探索您的音樂品味",
+      "stats": "查看有關您的收聽習慣的詳細統計數據",
+      "top": "查看您最喜愛的藝術家和曲目",
+      "playlists": "根據您的品味生成播放清單",
+      "downloads": "即將推出：下載您喜愛的歌曲"
+    }
+  },
+  "stats": {
+    "title": "您的收聽統計",
+    "overview": "概覽",
+    "topTracks": "熱門曲目",
+    "topArtists": "熱門藝術家",
+    "listeningTime": "收聽時長",
+    "totalTracks": "總曲目數",
+    "totalArtists": "總藝術家數",
+    "timeRange": {
+      "short": "最近4週",
+      "medium": "最近6個月",
+      "long": "所有時間"
+    },
+    "genreDistribution": "類型分佈",
+    "listeningActivity": "收聽活動",
+    "popularContent": "熱門內容"
+  },
+  "playlist": {
+    "title": "播放清單產生器",
+    "description": "根據您的偏好生成自定義播放清單",
+    "songName": "輸入歌曲名稱",
+    "generate": "產生推薦",
+    "addToPlaylist": "添加到Spotify播放清單",
+    "creating": "創建播放清單中...",
+    "success": "播放清單創建成功！"
+  },
+  "downloads": {
+    "title": "歌曲下載",
+    "comingSoon": "即將推出",
+    "description": "此功能目前正在開發中。稍後再來查看！"
+  }
+}

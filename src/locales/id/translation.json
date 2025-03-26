@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "login": "Masuk",
+    "logout": "Keluar",
+    "rights": "Hak cipta dilindungi.",
+    "viewAll": "Lihat Semua"
+  },
+  "nav": {
+    "home": "Beranda",
+    "stats": "Statistik",
+    "playlists": "Pembuat Daftar Putar",
+    "downloads": "Unduh Lagu"
+  },
+  "login": {
+    "description": "Masuk ke akun Spotify Anda untuk melihat statistik mendengarkan Anda",
+    "withSpotify": "Masuk dengan Spotify",
+    "privacy": "Privasi Anda penting",
+    "termsNotice": "Dengan masuk, Anda setuju untuk membagikan data mendengarkan Spotify Anda dengan kami. Kami tidak menyimpan data pribadi Anda."
+  },
+  "callback": {
+    "redirecting": "Mengalihkan Anda kembali ke halaman login..."
+  },
+  "home": {
+    "title": "Statistik Musik",
+    "subtitle": "Temukan kebiasaan mendengarkan musik Anda melalui statistik terperinci",
+    "description": "Music Stats membantu Anda memvisualisasikan data mendengarkan Spotify dengan grafik dan wawasan yang indah. Lacak artis, lagu, dan genre favorit Anda dari waktu ke waktu.",
+    "cta": "Masuk dengan Spotify untuk memulai",
+    "features": {
+      "title": "Temukan selera musik Anda",
+      "stats": "Lihat statistik terperinci tentang kebiasaan mendengarkan Anda",
+      "top": "Lihat artis dan lagu teratas Anda",
+      "playlists": "Buat daftar putar berdasarkan selera Anda",
+      "downloads": "Segera hadir: Unduh lagu favorit Anda"
+    }
+  },
+  "stats": {
+    "title": "Statistik Mendengarkan Anda",
+    "overview": "Ikhtisar",
+    "topTracks": "Lagu Terpopuler",
+    "topArtists": "Artis Terpopuler",
+    "listeningTime": "Waktu Mendengarkan",
+    "totalTracks": "Total Lagu",
+    "totalArtists": "Total Artis",
+    "timeRange": {
+      "short": "4 Minggu Terakhir",
+      "medium": "6 Bulan Terakhir",
+      "long": "Sepanjang Waktu"
+    },
+    "genreDistribution": "Distribusi Genre",
+    "listeningActivity": "Aktivitas Mendengarkan",
+    "popularContent": "Konten Populer"
+  },
+  "playlist": {
+    "title": "Pembuat Daftar Putar",
+    "description": "Buat daftar putar khusus berdasarkan preferensi Anda",
+    "songName": "Masukkan nama lagu",
+    "generate": "Hasilkan Rekomendasi",
+    "addToPlaylist": "Tambahkan ke Daftar Putar Spotify",
+    "creating": "Membuat daftar putar...",
+    "success": "Daftar putar berhasil dibuat!"
+  },
+  "downloads": {
+    "title": "Unduh Lagu",
+    "comingSoon": "Segera Hadir",
+    "description": "Fitur ini sedang dalam pengembangan. Periksa kembali nanti!"
+  }
+}

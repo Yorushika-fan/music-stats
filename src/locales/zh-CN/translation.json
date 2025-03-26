@@ -1,0 +1,71 @@
+{
+  "common": {
+    "loading": "加载中...",
+    "error": "发生错误",
+    "login": "登录",
+    "logout": "登出",
+    "rights": "版权所有。",
+    "viewAll": "查看全部"
+  },
+  "nav": {
+    "home": "首页",
+    "stats": "统计",
+    "playlists": "歌单生成器",
+    "downloads": "歌曲下载"
+  },
+  "login": {
+    "description": "登录您的Spotify账户，查看您的收听统计数据",
+    "withSpotify": "使用Spotify登录",
+    "privacy": "您的隐私很重要",
+    "termsNotice": "登录即表示您同意与我们分享您的Spotify收听数据。我们不会存储您的任何个人数据。"
+  },
+  "home": {
+    "title": "Music Stats",
+    "subtitle": "通过详细统计数据了解您的音乐收听习惯",
+    "description": "Music Stats 通过精美图表和见解帮助您可视化您的 Spotify 收听数据。跟踪您最喜爱的艺术家、歌曲和流派随时间的变化。",
+    "cta": "使用 Spotify 登录以开始",
+    "features": {
+      "heading": "探索音乐",
+      "title": "探索您的音乐品味",
+      "stats": "详细统计数据",
+      "stats_desc": "查看有关您的收听习惯的详细统计数据和分析图表",
+      "top": "最喜爱艺术家和歌曲",
+      "top_desc": "查看您最喜爱的艺术家、专辑和曲目，了解您的音乐偏好",
+      "playlists": "个性化歌单",
+      "playlists_desc": "根据您的音乐品味和收听习惯生成专属于您的歌单推荐",
+      "downloads": "音乐下载",
+      "downloads_desc": "即将推出：下载您喜爱的歌曲和播放列表供离线收听"
+    }
+  },
+  "stats": {
+    "title": "您的收听统计",
+    "overview": "概览",
+    "topTracks": "热门曲目",
+    "topArtists": "热门艺术家",
+    "listeningTime": "收听时长",
+    "totalTracks": "总曲目数",
+    "totalArtists": "总艺术家数",
+    "timeRange": {
+      "short": "最近4周",
+      "medium": "最近6个月",
+      "long": "所有时间"
+    },
+    "genreDistribution": "流派分布",
+    "listeningActivity": "收听活动",
+    "popularContent": "热门内容"
+  },
+  "playlist": {
+    "title": "歌单生成器",
+    "description": "根据您的偏好生成自定义歌单",
+    "songName": "输入歌曲名称",
+    "generate": "生成推荐",
+    "addToPlaylist": "添加到Spotify歌单",
+    "creating": "创建歌单中...",
+    "success": "歌单创建成功！"
+  },
+  "downloads": {
+    "title": "歌曲下载",
+    "comingSoon": "即将推出",
+    "description": "此功能目前正在开发中。稍后再来查看！"
+  }
+}

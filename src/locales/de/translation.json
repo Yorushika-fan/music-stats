@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Wird geladen...",
+    "error": "Ein Fehler ist aufgetreten",
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "rights": "Alle Rechte vorbehalten.",
+    "viewAll": "Alle anzeigen"
+  },
+  "nav": {
+    "home": "Startseite",
+    "stats": "Statistiken",
+    "playlists": "Playlist-Generator",
+    "downloads": "Song-Downloads"
+  },
+  "login": {
+    "description": "Melde dich bei deinem Spotify-Konto an, um deine Hörstatistiken zu sehen",
+    "withSpotify": "Mit Spotify anmelden",
+    "privacy": "Deine Privatsphäre ist wichtig",
+    "termsNotice": "Durch die Anmeldung stimmst du zu, deine Spotify-Hördaten mit uns zu teilen. Wir speichern keine deiner persönlichen Daten."
+  },
+  "callback": {
+    "redirecting": "Du wirst zurück zur Anmeldeseite weitergeleitet..."
+  },
+  "home": {
+    "title": "Musik-Statistiken",
+    "subtitle": "Entdecke deine Musik-Hörgewohnheiten durch detaillierte Statistiken",
+    "description": "Music Stats hilft dir dabei, deine Spotify-Hörerraten mit schönen Diagrammen und Einblicken zu visualisieren. Verfolge deine Lieblingskünstler, Songs und Genres im Laufe der Zeit.",
+    "cta": "Melde dich mit Spotify an, um zu beginnen",
+    "features": {
+      "title": "Entdecke deinen Musikgeschmack",
+      "stats": "Sieh dir detaillierte Statistiken über deine Hörgewohnheiten an",
+      "top": "Sieh dir deine Top-Künstler und -Tracks an",
+      "playlists": "Generiere Playlists basierend auf deinem Geschmack",
+      "downloads": "Demnächst: Lade deine Lieblingssongs herunter"
+    }
+  },
+  "stats": {
+    "title": "Deine Hörstatistiken",
+    "overview": "Überblick",
+    "topTracks": "Top-Titel",
+    "topArtists": "Top-Künstler",
+    "listeningTime": "Hörzeit",
+    "totalTracks": "Gesamtzahl der Titel",
+    "totalArtists": "Gesamtzahl der Künstler",
+    "timeRange": {
+      "short": "Letzte 4 Wochen",
+      "medium": "Letzte 6 Monate",
+      "long": "Gesamter Zeitraum"
+    },
+    "genreDistribution": "Genre-Verteilung",
+    "listeningActivity": "Höraktivität",
+    "popularContent": "Beliebte Inhalte"
+  },
+  "playlist": {
+    "title": "Playlist-Generator",
+    "description": "Generiere eine benutzerdefinierte Playlist basierend auf deinen Vorlieben",
+    "songName": "Gib einen Songnamen ein",
+    "generate": "Empfehlungen generieren",
+    "addToPlaylist": "Zur Spotify-Playlist hinzufügen",
+    "creating": "Playlist wird erstellt...",
+    "success": "Playlist erfolgreich erstellt!"
+  },
+  "downloads": {
+    "title": "Song-Downloads",
+    "comingSoon": "Demnächst verfügbar",
+    "description": "Diese Funktion befindet sich derzeit in der Entwicklung. Schau später wieder vorbei!"
+  }
+}

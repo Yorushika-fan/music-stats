@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Indlæser...",
+    "error": "Der opstod en fejl",
+    "login": "Log ind",
+    "logout": "Log ud",
+    "rights": "Alle rettigheder forbeholdes.",
+    "viewAll": "Se alle"
+  },
+  "nav": {
+    "home": "Hjem",
+    "stats": "Statistik",
+    "playlists": "Playliste-generator",
+    "downloads": "Sang Downloads"
+  },
+  "login": {
+    "description": "Log ind på din Spotify-konto for at se din lyttestatistik",
+    "withSpotify": "Log ind med Spotify",
+    "privacy": "Dit privatliv er vigtigt",
+    "termsNotice": "Ved at logge ind accepterer du at dele dine Spotify-lyttedata med os. Vi gemmer ingen af dine personlige data."
+  },
+  "callback": {
+    "redirecting": "Omdirigerer dig tilbage til login-siden..."
+  },
+  "home": {
+    "title": "Musik Statistik",
+    "subtitle": "Opdag dine musikvaner gennem detaljeret statistik",
+    "description": "Music Stats hjælper dig med at visualisere dine Spotify-lyttedata med smukke diagrammer og indsigter. Følg dine yndlingskunstnere, sange og genrer over tid.",
+    "cta": "Log ind med Spotify for at komme i gang",
+    "features": {
+      "title": "Opdag din musiksmag",
+      "stats": "Se detaljeret statistik om dine lyttevaner",
+      "top": "Se dine topkunstnere og numre",
+      "playlists": "Generer playlister baseret på din smag",
+      "downloads": "Kommer snart: Download dine yndlingssange"
+    }
+  },
+  "stats": {
+    "title": "Din lyttestatistik",
+    "overview": "Overblik",
+    "topTracks": "Mest afspillede sange",
+    "topArtists": "Mest afspillede kunstnere",
+    "listeningTime": "Lyttetid",
+    "totalTracks": "Samlet antal sange",
+    "totalArtists": "Samlet antal kunstnere",
+    "timeRange": {
+      "short": "Sidste 4 uger",
+      "medium": "Sidste 6 måneder",
+      "long": "Al tid"
+    },
+    "genreDistribution": "Genrefordeling",
+    "listeningActivity": "Lytteaktivitet",
+    "popularContent": "Populært Indhold"
+  },
+  "playlist": {
+    "title": "Playliste-generator",
+    "description": "Generer en tilpasset playliste baseret på dine præferencer",
+    "songName": "Indtast et sangnavn",
+    "generate": "Generer anbefalinger",
+    "addToPlaylist": "Tilføj til Spotify-playliste",
+    "creating": "Opretter playliste...",
+    "success": "Playliste oprettet med succes!"
+  },
+  "downloads": {
+    "title": "Sang Downloads",
+    "comingSoon": "Kommer snart",
+    "description": "Denne funktion er i øjeblikket under udvikling. Kom tilbage senere!"
+  }
+}
